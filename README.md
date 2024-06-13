@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anil Babu
-- 👀 I’m interested in API Test Automation
-- 🌱 I’m currently learning API Automation using postman
-- 💞️ I’m looking to collaborate on Automation Testing
+- 👀 I’m interested in Data Engineering
+
+- 💞️ I’m looking to collaborate on AI/ML
 - 📫 How to reach me mailId: anilbabuece@gmail.com
 
 <!---
